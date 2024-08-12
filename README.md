@@ -1,7 +1,6 @@
 # 2SEM1-Project
 
-**Figma Team Project Link**-> [https://www.figma.com/files/team/1403602736858568115/project/263964563/Team-project?fuid=1403602734833346092](url)
-
+**Figma Team Project Link**-> [https://www.figma.com/team_invite/redeem/kWwI5A9YRAwLy64DLlExv0](url)
 
 # Personalized Recipe Recommendation and Meal Planning App(**This Information Below is Temporary later based on the work we do we will change it accordingly**)
 
