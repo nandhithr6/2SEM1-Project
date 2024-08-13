@@ -74,8 +74,8 @@ Add anymore commands you can like superuser or whatever it is if u create a Supe
 Okayy abt this
 
 MY(Abiram) Admin Details are:
-user-ram
-pass-0225
+- user-ram
+- pass-0225
 
 ]
 
