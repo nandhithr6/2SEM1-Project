@@ -37,16 +37,16 @@ To run this project locally:
    ```
 3. **Create a virtual environment:**
    ```bash
-   python -m venv env
+   python -m venv djProject
    ```
 4. **Activate the virtual environment:**
    - On Windows:
      ```bash
-     .\env\Scripts\activate
+     .\djProject\Scripts\activate
      ```
    - On macOS/Linux:
      ```bash
-     source .venv/bin/activate
+     source djProject/bin/activate
      ```
 5. **Install the dependencies:** (Can ignore this for now it's used in deploying stage)
    ```bash
