@@ -72,6 +72,11 @@ To run this project locally:
 (Temporary when we reach end of our Project lets remove this)
 Add anymore commands you can like superuser or whatever it is if u create a SuperUser give it's Login informations (we can create 2 superusers also still keep ur login information here if u do if i do i will update mine here)
 Okayy abt this
+
+MY(Abiram) Admin Details are:
+user-ram
+pass-0225
+
 ]
 
 ------------------------------------------------------------------------------------------------------------
