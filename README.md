@@ -56,7 +56,11 @@ To run this project locally:
    ```bash
    python manage.py migrate
    ```
-7. **Run the development server:**
+7. **Create a Superuser:**
+   ```bash
+   python manage.py createsuperuser
+   ```
+8. **Run the development server:**
    ```bash
    python manage.py runserver
    ```
