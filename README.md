@@ -46,7 +46,7 @@ To run this project locally:
      ```
    - On macOS/Linux:
      ```bash
-     source env/bin/activate
+     source .venv/bin/activate
      ```
 5. **Install the dependencies:** (Can ignore this for now it's used in deploying stage)
    ```bash
