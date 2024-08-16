@@ -79,6 +79,29 @@ MY(Abiram) Admin Details are:
 
 ]
 
+##########################################################################################################################################################################################################
+Features that we can add in later on wen we start out w database---
+
+- Dietary Preferences: Allow users to set dietary restrictions (e.g., vegan, gluten-free).
+- Favorite Recipes: Users can mark recipes as favorites for easy access.
+- Allergy Alerts: Notify users if a recipe contains ingredients they are allergic to.
+- Serving Size Adjuster: Let users adjust the serving size and automatically recalculate ingredient quantities.
+- Meal History Tracking: Users can view a history of meals they've cooked.(they can add in their reviews for future references)
+- Weekly Progress Summary: Summarize the user's weekly activity (recipes cooked, meals planned).
+- Shopping List Notes: Add notes to items in the shopping list.
+- Multiple Shopping Lists: Allow users to create and manage multiple shopping lists.
+
+The features below can be implemented if we are going for Searching or browsing -- filters...(optional)
+- Search by Ingredients: Users can search for recipes by entering the ingredients they have.
+- Category Browsing: Browse recipes by categories like breakfast, lunch, dinner, etc.
+- Cuisine Filters: Filter recipes by cuisine type (e.g., Italian, Indian).
+- Random Recipe Suggestion: A button that suggests a random recipe from the database.
+- Recent Searches: Save and display a user’s recent search queries for easy access.
+- Seasonal Ingredients Filter: Search for recipes using seasonal ingredients.
+- Newly Added Recipes: Display recipes that have been recently added to the database.
+- Recipe of the Day: Highlight a different recipe each day.
+- Advanced Search Filters: Filters based on cook time, difficulty level, and dietary needs.
+
 ------------------------------------------------------------------------------------------------------------
 
 ## Usage (for user)  (lets edit) (Lets chnage it accordingly but this is the overall "User Flow")
